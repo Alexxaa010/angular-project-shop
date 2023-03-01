@@ -67,6 +67,16 @@ export const PRODUCTS: Products[] = [
         "openDate": 20230301
     },{
         "id": 2,
+        "title": " iPhone 128 GB Green 6.7-inch ",
+        "price": 700,
+        "description": "Released 2021, September 24 204g, 7.7mm thickness iOS 15, up to iOS 16.3 128GB/256GB/1TB storage, no card slot",
+        "category": "Apple iPhones",
+        "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-3.jpg",
+        "isFavorite": 0,
+        "sellNo": 5,
+        "openDate": 20220301
+    }, {
+        "id": 2,
         "title": " iPhone 13 Pro Max - 1TB Blue 6.7-inch ",
         "price": 2000,
         "description": "Released 2021, September 24 240g, 7.7mm thickness iOS 15, up to iOS 16.3 128GB/256GB/1TB storage, no card slot",
@@ -115,7 +125,17 @@ export const PRODUCTS: Products[] = [
         "isFavorite": 0,
         "sellNo": 2,
         "openDate": 20230205
-    }, {
+    },{
+        "id": 6,
+        "title": "Xiaomi Redmi K60E 6.67'' ",
+        "price": 500,
+        "description": "Released 2022, December 27 202g, 8.5mm thickness Android 12, MIUI 13 128GB/256GB/512GB storage, no card slot",
+        "category": "Xiaomi",
+        "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k60e-1.jpg",
+        "isFavorite": 1,
+        "sellNo": 450,
+        "openDate": 20210502
+    },{
         "id": 6,
         "title": "Xiaomi 13 Lite 6.55'' ",
         "price": 500,
@@ -155,6 +175,16 @@ export const PRODUCTS: Products[] = [
         "isFavorite": 1,
         "sellNo": 2,
         "openDate": 20210127
+    }, {
+        "id": 9,
+        "title": "Samsung Galaxy F04 6.5'' ",
+        "price": 400,
+        "description": "Released 2023, February 17 234g, 8.9mm thickness Android 13, One UI 5.1 128GB/256GB/1TB storage, no card slot",
+        "category": "Samsung",
+        "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-f04-2.jpg",
+        "isFavorite": 0,
+        "sellNo": 30,
+        "openDate": 20220702
     }, {
         "id": 9,
         "title": "Samsung Galaxy S23 Ultra 6.8 '' ",
@@ -216,6 +246,16 @@ export const PRODUCTS: Products[] = [
         "sellNo": 34,
         "openDate": 20230201
     }, {
+        "id": 16,
+        "title": "Google Pixel 4 XL 6.3'' ",
+        "price": 699.99,
+        "description": "Released 2019, October 22 193g, 8.2mm thickness Android 10, up to Android 13 64GB/128GB storage, no card slot",
+        "category": "Google",
+        "image": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-4-xl-1.jpg",
+        "isFavorite": 0,
+        "sellNo": 0,
+        "openDate": 20220415
+    },{
         "id": 16,
         "title": "Google Pixel 6a 6.1'' ",
         "price": 699.99,
